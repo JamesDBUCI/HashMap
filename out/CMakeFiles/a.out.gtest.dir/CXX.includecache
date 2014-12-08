@@ -6,24 +6,6 @@
 
 #IncludeRegexTransform: 
 
-../app/HashMap.hpp
-functional
--
-string
--
-
-/home/ics45c/projects/proj3/app/Command.cpp
-Command.hpp
-/home/ics45c/projects/proj3/app/Command.hpp
-
-/home/ics45c/projects/proj3/app/Command.hpp
-iostream
--
-string
--
-HashMap.hpp
-/home/ics45c/projects/proj3/app/HashMap.hpp
-
 /home/ics45c/projects/proj3/app/HashMap.cpp
 HashMap.hpp
 /home/ics45c/projects/proj3/app/HashMap.hpp
@@ -33,18 +15,4 @@ functional
 -
 string
 -
-
-/home/ics45c/projects/proj3/gtest/HashMapTests.cpp
-gtest/gtest.h
--
-HashMap.hpp
-/home/ics45c/projects/proj3/gtest/HashMap.hpp
-
-/home/ics45c/projects/proj3/gtest/HashMap_SanityCheckTests.cpp
-gtest/gtest.h
--
-string
--
-HashMap.hpp
-/home/ics45c/projects/proj3/gtest/HashMap.hpp
 
