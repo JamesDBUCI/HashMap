@@ -1,7 +1,7 @@
 HashMap
 =======
 
-UC Irvine ICS 45C Project3 Build implementation of HashMap
+HashMap data structure implementation for old school project UCI ICS 45C - Project3
 
 http://www.ics.uci.edu/~thornton/ics45c/ProjectGuide/Project3/
 
